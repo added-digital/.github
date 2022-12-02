@@ -1,4 +1,4 @@
-![White Added logo in front of a white background](https://raw.githubusercontent.com/added-digital/.github/main/profile/added-banner.png)
+<img src="https://raw.githubusercontent.com/added-digital/.github/main/profile/added-banner.png" alt="Added logo" width="200"/>
 
 # Turning digital challenges into possibilities for the new generation, by the new generation
 Added.digital is Stockholm based digital growth agency focused on creating value through smart, measurable solutions and services that add revenue for our clients over time. At added.digital we are all digital natives, and we take pride in our identity. Being born in the digital era helps us challenge the conventions and see digital growth from new and fresh perspectives.
